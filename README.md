@@ -20,7 +20,7 @@ pfSense（防火墙分区）+ Suricata（IPS，装于 pfSense）+ 雷池 WAF + W
 - [x] 第 1 周：网络分区 + pfSense + Suricata（Suricata 告警实测待第 4 周 Kali）
 - [x] 第 2 周：业务主机安全配置（SSH/口令/服务/SUID/审计）
 - [x] 第 3 周 A：Wazuh 日志审计（Agent+日志+告警验证）
-- [ ] 第 3 周 B：雷池 WAF + Web 服务器（待续）
+- [x] 第 3 周 B：雷池 WAF + Web 服务器（SQL 注入拦截验证通过）
 - [ ] 第 4 周：等保差距分析 + 整改 + 复测
 - [ ] 第 5 周：事件演练 + 收尾（可选 JumpServer）
 
@@ -29,6 +29,7 @@ pfSense（防火墙分区）+ Suricata（IPS，装于 pfSense）+ 雷池 WAF + W
 ## 简历描述（STAR，项目完成后补）
 
 ## 面试高频题（项目完成后补）
+
 
 
 
