@@ -21,7 +21,7 @@ pfSense（防火墙分区）+ Suricata（IPS，装于 pfSense）+ 雷池 WAF + W
 - [x] 第 2 周：业务主机安全配置（SSH/口令/服务/SUID/审计）
 - [x] 第 3 周 A：Wazuh 日志审计（Agent+日志+告警验证）
 - [x] 第 3 周 B：雷池 WAF + Web 服务器（SQL 注入拦截验证通过）
-- [ ] 第 4 周：等保差距分析 + 整改 + 复测
+- [x] 第 4 周 B：等保差距分析 + 整改 + 复测（R1-R3 完成）
 - [ ] 第 5 周：事件演练 + 收尾（可选 JumpServer）
 
 ## 技能点清单（项目完成后补，对齐岗位 JD 关键词）
@@ -29,6 +29,7 @@ pfSense（防火墙分区）+ Suricata（IPS，装于 pfSense）+ 雷池 WAF + W
 ## 简历描述（STAR，项目完成后补）
 
 ## 面试高频题（项目完成后补）
+
 
 
 
