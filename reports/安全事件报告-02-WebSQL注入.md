@@ -59,4 +59,6 @@
 ## 八、附件（截图）
 - screenshots/2026-09-10-演练-雷池拦截SQL注入.png
 - screenshots/2026-09-10-演练-雷池攻击事件.png
+- screenshots/2026-09-10-演练-IP黑名单建立.png
 - screenshots/2026-09-10-演练-IP黑名单生效.png
+
