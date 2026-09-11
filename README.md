@@ -22,7 +22,8 @@ pfSense（防火墙分区）+ Suricata（IDS/IPS）+ 雷池 SafeLine WAF + Wazuh
 - [x] 第 3 周 B：雷池 WAF + Web 服务器（SQL 注入拦截验证）
 - [x] 第 4 周：Kali 攻击机、等保差距分析与整改（R1-R3 完成并复测）
 - [x] 第 5 周：安全事件演练（SSH 暴力破解、Web SQL 注入）与事件报告
-- [ ] 收尾补充：防火墙日志接入 Wazuh（R4）、ClamAV（R5）、Suricata ET 规则（R6）、可选 JumpServer
+- [x] R4 防火墙日志接入 Wazuh（边界日志集中审计）
+- [ ] 收尾补充：ClamAV（R5）、Suricata ET 规则（R6）、可选 JumpServer
 
 ## 技能点清单（对齐岗位 JD 关键词）
 - 网络与边界安全：网络分区、防火墙策略（默认拒绝/最小放行）、NAT、DHCP/DNS 排障
@@ -58,3 +59,4 @@ pfSense（防火墙分区）+ Suricata（IDS/IPS）+ 雷池 SafeLine WAF + Wazuh
    要点：auditd 单机审计记录；Wazuh 集中采集多机日志、规则分析、告警与可视化。
 8. 如何排查"内网机器 DNS 解析失败"？
    要点：分层定位（本机到网关 DNS 到上游 DNS），用 nslookup 指定服务器逐层验证，区分 SERVFAIL 与网络不可达。
+
