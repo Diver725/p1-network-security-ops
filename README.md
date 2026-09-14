@@ -60,3 +60,4 @@ pfSense（防火墙分区）+ Suricata（IDS/IPS）+ 雷池 SafeLine WAF + Wazuh
 8. 如何排查"内网机器 DNS 解析失败"？
    要点：分层定位（本机到网关 DNS 到上游 DNS），用 nslookup 指定服务器逐层验证，区分 SERVFAIL 与网络不可达。
 
+
