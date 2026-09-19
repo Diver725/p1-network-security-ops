@@ -14,3 +14,6 @@ secrets/
 
 # Word 临时锁文件
 ~\$*.docx
+
+# 本地紧急备份，不入库
+backups/
