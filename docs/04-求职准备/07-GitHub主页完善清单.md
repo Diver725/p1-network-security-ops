@@ -85,7 +85,7 @@ Token
 ```markdown
 # 王一峰
 
-东南大学网络空间安全专业，2026 届。
+东南大学网络空间安全专业，2027 届。
 
 关注方向：Linux 运维、安全运维、SOC 安全运营、等保合规。
 
@@ -110,3 +110,4 @@ Linux · Networking · Wazuh · SIEM · GVM · Lynis · Ansible · UFW · Surica
 5. 创建 Diver725/Diver725 个人主页 README
 6. 最后把 GitHub 链接写入简历
 ```
+
